@@ -1,0 +1,4 @@
+S12_R1.fastq
+S12_R2.fastq
+S13_R1.fastq
+S13_R2.fastq

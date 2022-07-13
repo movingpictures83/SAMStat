@@ -1,0 +1,2 @@
+Prefix plugins/SAMStat/example
+Plugin SAMStat inputfile fastqfiles.txt outputfile samstat.html
